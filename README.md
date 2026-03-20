@@ -1,1 +1,1 @@
-# ml-and-ai-projects
+# mini and major ml-ai projects
